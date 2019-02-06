@@ -1,0 +1,14 @@
+#navbar{
+    background-color: cadetblue;
+    overflow: hidden;
+}
+#navbar a{
+    float: right;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 17px;
+}
+#navbar #HomeLogo{
+    float: left;
+}
